@@ -2,8 +2,8 @@
 title: David Bendet
 email: dbendet@gmail.com
 description: "Hey what's up."
-baseurl: "www.davidbendet.com/"
-url: "http://www.davidbendet.com"
+baseurl: "www.davidbendet.com"
+url: "www.davidbendet.com"
 
 # Build settings
 markdown: kramdown
