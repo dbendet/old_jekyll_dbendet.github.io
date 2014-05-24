@@ -9,11 +9,11 @@ layout: default
       <li>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span><br>
-        <span>{{post.content}}</span>
+        <span class="post-content">{{post.content}}</span>
       </li>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<!--   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
 </div>

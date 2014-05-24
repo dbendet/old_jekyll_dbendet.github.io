@@ -1,7 +1,7 @@
 # Site settings
 title: David Bendet
 email: dbendet@gmail.com
-description: "Hey what's up."
+description: "This site is built in Jekyll.  Code here."
 baseurl: ""
 url: "http://davidbendet.com"
 
