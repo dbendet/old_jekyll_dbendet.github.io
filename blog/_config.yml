@@ -1,0 +1,10 @@
+# Site settings
+title: David Bendet
+email: dbendet@gmail.com
+description: "Hey what's up."
+baseurl: ""
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
